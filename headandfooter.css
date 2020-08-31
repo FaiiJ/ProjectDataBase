@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fcf9f6;
+    color: #494241;
+}
+
+header {
+    background: #f5f0e0;
+    color: #774936;
+    font-size: 35px;
+    padding: 1%;
+}
+
+footer {
+    background-color: #ac1423;
+    color: #ffdfd1;
+}
+
+footer img {
+    height: 30px;
+    width: 30px;
+}
+
+footer a:hover {
+    opacity: 50%;
+}
