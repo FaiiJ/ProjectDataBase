@@ -1,0 +1,21 @@
+article {
+    padding: 7%;
+    margin-bottom: 6%;
+}
+
+#adminButton img,
+#customerButton img {
+    background-color: #ffcad3;
+    border-radius: 10%;
+    margin-left: 15%;
+}
+
+a h3 {
+    text-align: center;
+    color: #494241;
+    margin-top: 13;
+}
+
+h3:hover {
+    color: #8b8988;
+}
