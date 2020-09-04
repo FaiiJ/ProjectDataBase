@@ -1,0 +1,17 @@
+article {
+    padding: 1.5%;
+    margin-bottom: 20px;
+}
+
+section {
+    padding: 1%;
+}
+
+.toolButton {
+    color: #494241;
+}
+
+.toolButton:hover {
+    text-decoration: none;
+    color: #b65f4f;
+}
